@@ -3,4 +3,3 @@
 #### install OS ผ่าน proxmox 
 #### install OS ผ่าน IDRAC 
 #### ต่อสายแลน (LAN)
-
